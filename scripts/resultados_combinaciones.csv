@@ -1,0 +1,1562 @@
+num_columnas_eliminadas,combinacion,observaciones
+1,['hb02'],374
+1,['hb07b'],584
+1,['valor_AC_URICO'],374
+1,['valor_ALBU'],374
+1,['valor_COL_HDL'],374
+1,['valor_COL_LDL'],374
+1,['valor_COLEST'],374
+1,['valor_CREAT'],374
+1,['valor_GLU_SUERO'],374
+1,['valor_INSULINA'],374
+1,['valor_PCR'],374
+1,['valor_TRIG'],374
+1,['valor_EAG'],374
+1,['valor_HB1AC'],374
+1,['valor_FERRITINA'],374
+1,['valor_FOL'],374
+1,['valor_HCST'],374
+1,['valor_PROTCREAC'],375
+1,['valor_STFR_FEB23'],396
+1,['valor_VIT_B12'],374
+1,['valor_VIT_D'],374
+2,"['hb02', 'hb07b']",584
+2,"['hb02', 'valor_AC_URICO']",374
+2,"['hb02', 'valor_ALBU']",374
+2,"['hb02', 'valor_COL_HDL']",374
+2,"['hb02', 'valor_COL_LDL']",374
+2,"['hb02', 'valor_COLEST']",374
+2,"['hb02', 'valor_CREAT']",374
+2,"['hb02', 'valor_GLU_SUERO']",374
+2,"['hb02', 'valor_INSULINA']",374
+2,"['hb02', 'valor_PCR']",374
+2,"['hb02', 'valor_TRIG']",374
+2,"['hb02', 'valor_EAG']",374
+2,"['hb02', 'valor_HB1AC']",374
+2,"['hb02', 'valor_FERRITINA']",374
+2,"['hb02', 'valor_FOL']",374
+2,"['hb02', 'valor_HCST']",374
+2,"['hb02', 'valor_PROTCREAC']",375
+2,"['hb02', 'valor_STFR_FEB23']",396
+2,"['hb02', 'valor_VIT_B12']",374
+2,"['hb02', 'valor_VIT_D']",374
+2,"['hb07b', 'valor_AC_URICO']",584
+2,"['hb07b', 'valor_ALBU']",584
+2,"['hb07b', 'valor_COL_HDL']",584
+2,"['hb07b', 'valor_COL_LDL']",584
+2,"['hb07b', 'valor_COLEST']",584
+2,"['hb07b', 'valor_CREAT']",584
+2,"['hb07b', 'valor_GLU_SUERO']",584
+2,"['hb07b', 'valor_INSULINA']",584
+2,"['hb07b', 'valor_PCR']",584
+2,"['hb07b', 'valor_TRIG']",584
+2,"['hb07b', 'valor_EAG']",584
+2,"['hb07b', 'valor_HB1AC']",584
+2,"['hb07b', 'valor_FERRITINA']",584
+2,"['hb07b', 'valor_FOL']",584
+2,"['hb07b', 'valor_HCST']",584
+2,"['hb07b', 'valor_PROTCREAC']",585
+2,"['hb07b', 'valor_STFR_FEB23']",622
+2,"['hb07b', 'valor_VIT_B12']",584
+2,"['hb07b', 'valor_VIT_D']",584
+2,"['valor_AC_URICO', 'valor_ALBU']",374
+2,"['valor_AC_URICO', 'valor_COL_HDL']",374
+2,"['valor_AC_URICO', 'valor_COL_LDL']",374
+2,"['valor_AC_URICO', 'valor_COLEST']",374
+2,"['valor_AC_URICO', 'valor_CREAT']",374
+2,"['valor_AC_URICO', 'valor_GLU_SUERO']",374
+2,"['valor_AC_URICO', 'valor_INSULINA']",374
+2,"['valor_AC_URICO', 'valor_PCR']",374
+2,"['valor_AC_URICO', 'valor_TRIG']",374
+2,"['valor_AC_URICO', 'valor_EAG']",374
+2,"['valor_AC_URICO', 'valor_HB1AC']",374
+2,"['valor_AC_URICO', 'valor_FERRITINA']",374
+2,"['valor_AC_URICO', 'valor_FOL']",374
+2,"['valor_AC_URICO', 'valor_HCST']",374
+2,"['valor_AC_URICO', 'valor_PROTCREAC']",375
+2,"['valor_AC_URICO', 'valor_STFR_FEB23']",396
+2,"['valor_AC_URICO', 'valor_VIT_B12']",374
+2,"['valor_AC_URICO', 'valor_VIT_D']",374
+2,"['valor_ALBU', 'valor_COL_HDL']",374
+2,"['valor_ALBU', 'valor_COL_LDL']",374
+2,"['valor_ALBU', 'valor_COLEST']",374
+2,"['valor_ALBU', 'valor_CREAT']",374
+2,"['valor_ALBU', 'valor_GLU_SUERO']",374
+2,"['valor_ALBU', 'valor_INSULINA']",374
+2,"['valor_ALBU', 'valor_PCR']",374
+2,"['valor_ALBU', 'valor_TRIG']",374
+2,"['valor_ALBU', 'valor_EAG']",374
+2,"['valor_ALBU', 'valor_HB1AC']",374
+2,"['valor_ALBU', 'valor_FERRITINA']",374
+2,"['valor_ALBU', 'valor_FOL']",374
+2,"['valor_ALBU', 'valor_HCST']",374
+2,"['valor_ALBU', 'valor_PROTCREAC']",375
+2,"['valor_ALBU', 'valor_STFR_FEB23']",396
+2,"['valor_ALBU', 'valor_VIT_B12']",374
+2,"['valor_ALBU', 'valor_VIT_D']",374
+2,"['valor_COL_HDL', 'valor_COL_LDL']",374
+2,"['valor_COL_HDL', 'valor_COLEST']",374
+2,"['valor_COL_HDL', 'valor_CREAT']",374
+2,"['valor_COL_HDL', 'valor_GLU_SUERO']",374
+2,"['valor_COL_HDL', 'valor_INSULINA']",374
+2,"['valor_COL_HDL', 'valor_PCR']",374
+2,"['valor_COL_HDL', 'valor_TRIG']",374
+2,"['valor_COL_HDL', 'valor_EAG']",374
+2,"['valor_COL_HDL', 'valor_HB1AC']",374
+2,"['valor_COL_HDL', 'valor_FERRITINA']",374
+2,"['valor_COL_HDL', 'valor_FOL']",374
+2,"['valor_COL_HDL', 'valor_HCST']",374
+2,"['valor_COL_HDL', 'valor_PROTCREAC']",375
+2,"['valor_COL_HDL', 'valor_STFR_FEB23']",396
+2,"['valor_COL_HDL', 'valor_VIT_B12']",374
+2,"['valor_COL_HDL', 'valor_VIT_D']",374
+2,"['valor_COL_LDL', 'valor_COLEST']",374
+2,"['valor_COL_LDL', 'valor_CREAT']",374
+2,"['valor_COL_LDL', 'valor_GLU_SUERO']",374
+2,"['valor_COL_LDL', 'valor_INSULINA']",374
+2,"['valor_COL_LDL', 'valor_PCR']",374
+2,"['valor_COL_LDL', 'valor_TRIG']",374
+2,"['valor_COL_LDL', 'valor_EAG']",374
+2,"['valor_COL_LDL', 'valor_HB1AC']",374
+2,"['valor_COL_LDL', 'valor_FERRITINA']",374
+2,"['valor_COL_LDL', 'valor_FOL']",374
+2,"['valor_COL_LDL', 'valor_HCST']",374
+2,"['valor_COL_LDL', 'valor_PROTCREAC']",375
+2,"['valor_COL_LDL', 'valor_STFR_FEB23']",396
+2,"['valor_COL_LDL', 'valor_VIT_B12']",374
+2,"['valor_COL_LDL', 'valor_VIT_D']",374
+2,"['valor_COLEST', 'valor_CREAT']",374
+2,"['valor_COLEST', 'valor_GLU_SUERO']",374
+2,"['valor_COLEST', 'valor_INSULINA']",374
+2,"['valor_COLEST', 'valor_PCR']",374
+2,"['valor_COLEST', 'valor_TRIG']",374
+2,"['valor_COLEST', 'valor_EAG']",374
+2,"['valor_COLEST', 'valor_HB1AC']",374
+2,"['valor_COLEST', 'valor_FERRITINA']",374
+2,"['valor_COLEST', 'valor_FOL']",374
+2,"['valor_COLEST', 'valor_HCST']",374
+2,"['valor_COLEST', 'valor_PROTCREAC']",375
+2,"['valor_COLEST', 'valor_STFR_FEB23']",396
+2,"['valor_COLEST', 'valor_VIT_B12']",374
+2,"['valor_COLEST', 'valor_VIT_D']",374
+2,"['valor_CREAT', 'valor_GLU_SUERO']",374
+2,"['valor_CREAT', 'valor_INSULINA']",374
+2,"['valor_CREAT', 'valor_PCR']",374
+2,"['valor_CREAT', 'valor_TRIG']",374
+2,"['valor_CREAT', 'valor_EAG']",374
+2,"['valor_CREAT', 'valor_HB1AC']",374
+2,"['valor_CREAT', 'valor_FERRITINA']",374
+2,"['valor_CREAT', 'valor_FOL']",374
+2,"['valor_CREAT', 'valor_HCST']",374
+2,"['valor_CREAT', 'valor_PROTCREAC']",375
+2,"['valor_CREAT', 'valor_STFR_FEB23']",396
+2,"['valor_CREAT', 'valor_VIT_B12']",374
+2,"['valor_CREAT', 'valor_VIT_D']",374
+2,"['valor_GLU_SUERO', 'valor_INSULINA']",374
+2,"['valor_GLU_SUERO', 'valor_PCR']",374
+2,"['valor_GLU_SUERO', 'valor_TRIG']",374
+2,"['valor_GLU_SUERO', 'valor_EAG']",374
+2,"['valor_GLU_SUERO', 'valor_HB1AC']",374
+2,"['valor_GLU_SUERO', 'valor_FERRITINA']",374
+2,"['valor_GLU_SUERO', 'valor_FOL']",374
+2,"['valor_GLU_SUERO', 'valor_HCST']",374
+2,"['valor_GLU_SUERO', 'valor_PROTCREAC']",375
+2,"['valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+2,"['valor_GLU_SUERO', 'valor_VIT_B12']",374
+2,"['valor_GLU_SUERO', 'valor_VIT_D']",374
+2,"['valor_INSULINA', 'valor_PCR']",374
+2,"['valor_INSULINA', 'valor_TRIG']",374
+2,"['valor_INSULINA', 'valor_EAG']",374
+2,"['valor_INSULINA', 'valor_HB1AC']",374
+2,"['valor_INSULINA', 'valor_FERRITINA']",374
+2,"['valor_INSULINA', 'valor_FOL']",374
+2,"['valor_INSULINA', 'valor_HCST']",374
+2,"['valor_INSULINA', 'valor_PROTCREAC']",375
+2,"['valor_INSULINA', 'valor_STFR_FEB23']",396
+2,"['valor_INSULINA', 'valor_VIT_B12']",374
+2,"['valor_INSULINA', 'valor_VIT_D']",374
+2,"['valor_PCR', 'valor_TRIG']",374
+2,"['valor_PCR', 'valor_EAG']",374
+2,"['valor_PCR', 'valor_HB1AC']",374
+2,"['valor_PCR', 'valor_FERRITINA']",374
+2,"['valor_PCR', 'valor_FOL']",374
+2,"['valor_PCR', 'valor_HCST']",374
+2,"['valor_PCR', 'valor_PROTCREAC']",375
+2,"['valor_PCR', 'valor_STFR_FEB23']",396
+2,"['valor_PCR', 'valor_VIT_B12']",374
+2,"['valor_PCR', 'valor_VIT_D']",374
+2,"['valor_TRIG', 'valor_EAG']",374
+2,"['valor_TRIG', 'valor_HB1AC']",374
+2,"['valor_TRIG', 'valor_FERRITINA']",374
+2,"['valor_TRIG', 'valor_FOL']",374
+2,"['valor_TRIG', 'valor_HCST']",374
+2,"['valor_TRIG', 'valor_PROTCREAC']",375
+2,"['valor_TRIG', 'valor_STFR_FEB23']",396
+2,"['valor_TRIG', 'valor_VIT_B12']",374
+2,"['valor_TRIG', 'valor_VIT_D']",374
+2,"['valor_EAG', 'valor_HB1AC']",376
+2,"['valor_EAG', 'valor_FERRITINA']",374
+2,"['valor_EAG', 'valor_FOL']",374
+2,"['valor_EAG', 'valor_HCST']",374
+2,"['valor_EAG', 'valor_PROTCREAC']",375
+2,"['valor_EAG', 'valor_STFR_FEB23']",396
+2,"['valor_EAG', 'valor_VIT_B12']",374
+2,"['valor_EAG', 'valor_VIT_D']",374
+2,"['valor_HB1AC', 'valor_FERRITINA']",374
+2,"['valor_HB1AC', 'valor_FOL']",374
+2,"['valor_HB1AC', 'valor_HCST']",374
+2,"['valor_HB1AC', 'valor_PROTCREAC']",375
+2,"['valor_HB1AC', 'valor_STFR_FEB23']",396
+2,"['valor_HB1AC', 'valor_VIT_B12']",374
+2,"['valor_HB1AC', 'valor_VIT_D']",374
+2,"['valor_FERRITINA', 'valor_FOL']",374
+2,"['valor_FERRITINA', 'valor_HCST']",374
+2,"['valor_FERRITINA', 'valor_PROTCREAC']",375
+2,"['valor_FERRITINA', 'valor_STFR_FEB23']",396
+2,"['valor_FERRITINA', 'valor_VIT_B12']",374
+2,"['valor_FERRITINA', 'valor_VIT_D']",374
+2,"['valor_FOL', 'valor_HCST']",374
+2,"['valor_FOL', 'valor_PROTCREAC']",375
+2,"['valor_FOL', 'valor_STFR_FEB23']",396
+2,"['valor_FOL', 'valor_VIT_B12']",374
+2,"['valor_FOL', 'valor_VIT_D']",374
+2,"['valor_HCST', 'valor_PROTCREAC']",375
+2,"['valor_HCST', 'valor_STFR_FEB23']",396
+2,"['valor_HCST', 'valor_VIT_B12']",374
+2,"['valor_HCST', 'valor_VIT_D']",374
+2,"['valor_PROTCREAC', 'valor_STFR_FEB23']",397
+2,"['valor_PROTCREAC', 'valor_VIT_B12']",375
+2,"['valor_PROTCREAC', 'valor_VIT_D']",375
+2,"['valor_STFR_FEB23', 'valor_VIT_B12']",396
+2,"['valor_STFR_FEB23', 'valor_VIT_D']",396
+2,"['valor_VIT_B12', 'valor_VIT_D']",374
+3,"['hb02', 'hb07b', 'valor_AC_URICO']",584
+3,"['hb02', 'hb07b', 'valor_ALBU']",584
+3,"['hb02', 'hb07b', 'valor_COL_HDL']",584
+3,"['hb02', 'hb07b', 'valor_COL_LDL']",584
+3,"['hb02', 'hb07b', 'valor_COLEST']",584
+3,"['hb02', 'hb07b', 'valor_CREAT']",584
+3,"['hb02', 'hb07b', 'valor_GLU_SUERO']",584
+3,"['hb02', 'hb07b', 'valor_INSULINA']",584
+3,"['hb02', 'hb07b', 'valor_PCR']",584
+3,"['hb02', 'hb07b', 'valor_TRIG']",584
+3,"['hb02', 'hb07b', 'valor_EAG']",584
+3,"['hb02', 'hb07b', 'valor_HB1AC']",584
+3,"['hb02', 'hb07b', 'valor_FERRITINA']",584
+3,"['hb02', 'hb07b', 'valor_FOL']",584
+3,"['hb02', 'hb07b', 'valor_HCST']",584
+3,"['hb02', 'hb07b', 'valor_PROTCREAC']",585
+3,"['hb02', 'hb07b', 'valor_STFR_FEB23']",622
+3,"['hb02', 'hb07b', 'valor_VIT_B12']",584
+3,"['hb02', 'hb07b', 'valor_VIT_D']",584
+3,"['hb02', 'valor_AC_URICO', 'valor_ALBU']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_COL_HDL']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_COL_LDL']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_COLEST']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_CREAT']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_GLU_SUERO']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_INSULINA']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_PCR']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_TRIG']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_EAG']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_HB1AC']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_FOL']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_HCST']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_AC_URICO', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_AC_URICO', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_AC_URICO', 'valor_VIT_D']",374
+3,"['hb02', 'valor_ALBU', 'valor_COL_HDL']",374
+3,"['hb02', 'valor_ALBU', 'valor_COL_LDL']",374
+3,"['hb02', 'valor_ALBU', 'valor_COLEST']",374
+3,"['hb02', 'valor_ALBU', 'valor_CREAT']",374
+3,"['hb02', 'valor_ALBU', 'valor_GLU_SUERO']",374
+3,"['hb02', 'valor_ALBU', 'valor_INSULINA']",374
+3,"['hb02', 'valor_ALBU', 'valor_PCR']",374
+3,"['hb02', 'valor_ALBU', 'valor_TRIG']",374
+3,"['hb02', 'valor_ALBU', 'valor_EAG']",374
+3,"['hb02', 'valor_ALBU', 'valor_HB1AC']",374
+3,"['hb02', 'valor_ALBU', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_ALBU', 'valor_FOL']",374
+3,"['hb02', 'valor_ALBU', 'valor_HCST']",374
+3,"['hb02', 'valor_ALBU', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_ALBU', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_ALBU', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_ALBU', 'valor_VIT_D']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_COL_LDL']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_COLEST']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_CREAT']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_GLU_SUERO']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_INSULINA']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_PCR']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_TRIG']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_EAG']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_HB1AC']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_FOL']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_HCST']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_COL_HDL', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_COL_HDL', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_COL_HDL', 'valor_VIT_D']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_COLEST']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_CREAT']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_GLU_SUERO']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_INSULINA']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_PCR']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_TRIG']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_EAG']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_HB1AC']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_FOL']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_HCST']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_COL_LDL', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_COL_LDL', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_COL_LDL', 'valor_VIT_D']",374
+3,"['hb02', 'valor_COLEST', 'valor_CREAT']",374
+3,"['hb02', 'valor_COLEST', 'valor_GLU_SUERO']",374
+3,"['hb02', 'valor_COLEST', 'valor_INSULINA']",374
+3,"['hb02', 'valor_COLEST', 'valor_PCR']",374
+3,"['hb02', 'valor_COLEST', 'valor_TRIG']",374
+3,"['hb02', 'valor_COLEST', 'valor_EAG']",374
+3,"['hb02', 'valor_COLEST', 'valor_HB1AC']",374
+3,"['hb02', 'valor_COLEST', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_COLEST', 'valor_FOL']",374
+3,"['hb02', 'valor_COLEST', 'valor_HCST']",374
+3,"['hb02', 'valor_COLEST', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_COLEST', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_COLEST', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_COLEST', 'valor_VIT_D']",374
+3,"['hb02', 'valor_CREAT', 'valor_GLU_SUERO']",374
+3,"['hb02', 'valor_CREAT', 'valor_INSULINA']",374
+3,"['hb02', 'valor_CREAT', 'valor_PCR']",374
+3,"['hb02', 'valor_CREAT', 'valor_TRIG']",374
+3,"['hb02', 'valor_CREAT', 'valor_EAG']",374
+3,"['hb02', 'valor_CREAT', 'valor_HB1AC']",374
+3,"['hb02', 'valor_CREAT', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_CREAT', 'valor_FOL']",374
+3,"['hb02', 'valor_CREAT', 'valor_HCST']",374
+3,"['hb02', 'valor_CREAT', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_CREAT', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_CREAT', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_CREAT', 'valor_VIT_D']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['hb02', 'valor_INSULINA', 'valor_PCR']",374
+3,"['hb02', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['hb02', 'valor_INSULINA', 'valor_EAG']",374
+3,"['hb02', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['hb02', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_INSULINA', 'valor_FOL']",374
+3,"['hb02', 'valor_INSULINA', 'valor_HCST']",374
+3,"['hb02', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['hb02', 'valor_PCR', 'valor_TRIG']",374
+3,"['hb02', 'valor_PCR', 'valor_EAG']",374
+3,"['hb02', 'valor_PCR', 'valor_HB1AC']",374
+3,"['hb02', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_PCR', 'valor_FOL']",374
+3,"['hb02', 'valor_PCR', 'valor_HCST']",374
+3,"['hb02', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_PCR', 'valor_VIT_D']",374
+3,"['hb02', 'valor_TRIG', 'valor_EAG']",374
+3,"['hb02', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['hb02', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_TRIG', 'valor_FOL']",374
+3,"['hb02', 'valor_TRIG', 'valor_HCST']",374
+3,"['hb02', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['hb02', 'valor_EAG', 'valor_HB1AC']",376
+3,"['hb02', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_EAG', 'valor_FOL']",374
+3,"['hb02', 'valor_EAG', 'valor_HCST']",374
+3,"['hb02', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_EAG', 'valor_VIT_D']",374
+3,"['hb02', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['hb02', 'valor_HB1AC', 'valor_FOL']",374
+3,"['hb02', 'valor_HB1AC', 'valor_HCST']",374
+3,"['hb02', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['hb02', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['hb02', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['hb02', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['hb02', 'valor_FOL', 'valor_HCST']",374
+3,"['hb02', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_FOL', 'valor_VIT_D']",374
+3,"['hb02', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['hb02', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['hb02', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['hb02', 'valor_HCST', 'valor_VIT_D']",374
+3,"['hb02', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['hb02', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['hb02', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['hb02', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['hb02', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['hb02', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['hb07b', 'valor_AC_URICO', 'valor_ALBU']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_COL_HDL']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_COL_LDL']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_COLEST']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_CREAT']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_GLU_SUERO']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_PCR']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_TRIG']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_EAG']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_FOL']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_HCST']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_AC_URICO', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_AC_URICO', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_AC_URICO', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_ALBU', 'valor_COL_HDL']",584
+3,"['hb07b', 'valor_ALBU', 'valor_COL_LDL']",584
+3,"['hb07b', 'valor_ALBU', 'valor_COLEST']",584
+3,"['hb07b', 'valor_ALBU', 'valor_CREAT']",584
+3,"['hb07b', 'valor_ALBU', 'valor_GLU_SUERO']",584
+3,"['hb07b', 'valor_ALBU', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_ALBU', 'valor_PCR']",584
+3,"['hb07b', 'valor_ALBU', 'valor_TRIG']",584
+3,"['hb07b', 'valor_ALBU', 'valor_EAG']",584
+3,"['hb07b', 'valor_ALBU', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_ALBU', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_ALBU', 'valor_FOL']",584
+3,"['hb07b', 'valor_ALBU', 'valor_HCST']",584
+3,"['hb07b', 'valor_ALBU', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_ALBU', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_ALBU', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_ALBU', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_COL_LDL']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_COLEST']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_CREAT']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_GLU_SUERO']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_PCR']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_TRIG']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_EAG']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_FOL']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_HCST']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_COL_HDL', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_COL_HDL', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_COL_HDL', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_COLEST']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_CREAT']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_GLU_SUERO']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_PCR']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_TRIG']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_EAG']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_FOL']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_HCST']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_COL_LDL', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_COL_LDL', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_COL_LDL', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_COLEST', 'valor_CREAT']",584
+3,"['hb07b', 'valor_COLEST', 'valor_GLU_SUERO']",584
+3,"['hb07b', 'valor_COLEST', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_COLEST', 'valor_PCR']",584
+3,"['hb07b', 'valor_COLEST', 'valor_TRIG']",584
+3,"['hb07b', 'valor_COLEST', 'valor_EAG']",584
+3,"['hb07b', 'valor_COLEST', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_COLEST', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_COLEST', 'valor_FOL']",584
+3,"['hb07b', 'valor_COLEST', 'valor_HCST']",584
+3,"['hb07b', 'valor_COLEST', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_COLEST', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_COLEST', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_COLEST', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_CREAT', 'valor_GLU_SUERO']",584
+3,"['hb07b', 'valor_CREAT', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_CREAT', 'valor_PCR']",584
+3,"['hb07b', 'valor_CREAT', 'valor_TRIG']",584
+3,"['hb07b', 'valor_CREAT', 'valor_EAG']",584
+3,"['hb07b', 'valor_CREAT', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_CREAT', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_CREAT', 'valor_FOL']",584
+3,"['hb07b', 'valor_CREAT', 'valor_HCST']",584
+3,"['hb07b', 'valor_CREAT', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_CREAT', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_CREAT', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_CREAT', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_INSULINA']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_PCR']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_TRIG']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_EAG']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_FOL']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_HCST']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_GLU_SUERO', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_PCR']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_TRIG']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_EAG']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_FOL']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_HCST']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_INSULINA', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_INSULINA', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_INSULINA', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_PCR', 'valor_TRIG']",584
+3,"['hb07b', 'valor_PCR', 'valor_EAG']",584
+3,"['hb07b', 'valor_PCR', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_PCR', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_PCR', 'valor_FOL']",584
+3,"['hb07b', 'valor_PCR', 'valor_HCST']",584
+3,"['hb07b', 'valor_PCR', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_PCR', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_PCR', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_PCR', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_TRIG', 'valor_EAG']",584
+3,"['hb07b', 'valor_TRIG', 'valor_HB1AC']",584
+3,"['hb07b', 'valor_TRIG', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_TRIG', 'valor_FOL']",584
+3,"['hb07b', 'valor_TRIG', 'valor_HCST']",584
+3,"['hb07b', 'valor_TRIG', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_TRIG', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_TRIG', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_TRIG', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_EAG', 'valor_HB1AC']",589
+3,"['hb07b', 'valor_EAG', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_EAG', 'valor_FOL']",584
+3,"['hb07b', 'valor_EAG', 'valor_HCST']",584
+3,"['hb07b', 'valor_EAG', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_EAG', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_EAG', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_EAG', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_HB1AC', 'valor_FERRITINA']",584
+3,"['hb07b', 'valor_HB1AC', 'valor_FOL']",584
+3,"['hb07b', 'valor_HB1AC', 'valor_HCST']",584
+3,"['hb07b', 'valor_HB1AC', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_HB1AC', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_HB1AC', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_HB1AC', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_FERRITINA', 'valor_FOL']",584
+3,"['hb07b', 'valor_FERRITINA', 'valor_HCST']",584
+3,"['hb07b', 'valor_FERRITINA', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_FERRITINA', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_FERRITINA', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_FERRITINA', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_FOL', 'valor_HCST']",584
+3,"['hb07b', 'valor_FOL', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_FOL', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_FOL', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_FOL', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_HCST', 'valor_PROTCREAC']",585
+3,"['hb07b', 'valor_HCST', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_HCST', 'valor_VIT_B12']",584
+3,"['hb07b', 'valor_HCST', 'valor_VIT_D']",584
+3,"['hb07b', 'valor_PROTCREAC', 'valor_STFR_FEB23']",623
+3,"['hb07b', 'valor_PROTCREAC', 'valor_VIT_B12']",585
+3,"['hb07b', 'valor_PROTCREAC', 'valor_VIT_D']",585
+3,"['hb07b', 'valor_STFR_FEB23', 'valor_VIT_B12']",622
+3,"['hb07b', 'valor_STFR_FEB23', 'valor_VIT_D']",622
+3,"['hb07b', 'valor_VIT_B12', 'valor_VIT_D']",584
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_COL_HDL']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_COL_LDL']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_COLEST']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_CREAT']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_GLU_SUERO']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_INSULINA']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_ALBU', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_COL_LDL']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_COLEST']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_CREAT']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_GLU_SUERO']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_INSULINA']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_COL_HDL', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_COLEST']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_CREAT']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_GLU_SUERO']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_INSULINA']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_COL_LDL', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_CREAT']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_GLU_SUERO']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_INSULINA']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_COLEST', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_GLU_SUERO']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_INSULINA']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_CREAT', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_AC_URICO', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_AC_URICO', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_AC_URICO', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_AC_URICO', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_AC_URICO', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_AC_URICO', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_AC_URICO', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_AC_URICO', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_AC_URICO', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_AC_URICO', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_AC_URICO', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_COL_LDL']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_COLEST']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_CREAT']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_GLU_SUERO']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_INSULINA']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_PCR']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_COL_HDL', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_COLEST']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_CREAT']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_GLU_SUERO']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_INSULINA']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_PCR']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_COL_LDL', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_CREAT']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_GLU_SUERO']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_INSULINA']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_PCR']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_COLEST', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_COLEST', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_COLEST', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_GLU_SUERO']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_INSULINA']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_PCR']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_CREAT', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_CREAT', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_CREAT', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_ALBU', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_ALBU', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_ALBU', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_ALBU', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_ALBU', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_ALBU', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_ALBU', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_ALBU', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_ALBU', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_ALBU', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_ALBU', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_ALBU', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_COLEST']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_CREAT']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_GLU_SUERO']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_INSULINA']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_PCR']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_TRIG']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_COL_LDL', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_CREAT']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_GLU_SUERO']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_INSULINA']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_PCR']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_TRIG']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_COLEST', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_GLU_SUERO']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_INSULINA']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_PCR']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_TRIG']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_CREAT', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_COL_HDL', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_COL_HDL', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_COL_HDL', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_COL_HDL', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_COL_HDL', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_COL_HDL', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_COL_HDL', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_COL_HDL', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_COL_HDL', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_COL_HDL', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_COL_HDL', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_CREAT']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_GLU_SUERO']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_INSULINA']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_PCR']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_TRIG']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_EAG']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_HB1AC']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_COLEST', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_GLU_SUERO']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_INSULINA']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_PCR']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_TRIG']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_EAG']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_HB1AC']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_CREAT', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_COL_LDL', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_COL_LDL', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_COL_LDL', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_COL_LDL', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_COL_LDL', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_COL_LDL', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_COL_LDL', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_COL_LDL', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_COL_LDL', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_COL_LDL', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_COL_LDL', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_GLU_SUERO']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_INSULINA']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_PCR']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_TRIG']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_EAG']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_HB1AC']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_CREAT', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_CREAT', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_CREAT', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_COLEST', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_COLEST', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_COLEST', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_COLEST', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_COLEST', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_COLEST', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_COLEST', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_COLEST', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_COLEST', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_COLEST', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_COLEST', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_COLEST', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_INSULINA']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_PCR']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_TRIG']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_EAG']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_HB1AC']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_FERRITINA']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_GLU_SUERO', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_CREAT', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_CREAT', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_CREAT', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_CREAT', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_CREAT', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_CREAT', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_CREAT', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_CREAT', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_CREAT', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_CREAT', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_CREAT', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_CREAT', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_CREAT', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_PCR']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_TRIG']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_EAG']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_HB1AC']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_FERRITINA']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_FOL']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_INSULINA', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_GLU_SUERO', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_GLU_SUERO', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_GLU_SUERO', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_GLU_SUERO', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_GLU_SUERO', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_GLU_SUERO', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_GLU_SUERO', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_GLU_SUERO', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_GLU_SUERO', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_GLU_SUERO', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_GLU_SUERO', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_TRIG']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_EAG']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_HB1AC']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_FERRITINA']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_FOL']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_HCST']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_PCR', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_PCR', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_PCR', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_INSULINA', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_INSULINA', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_INSULINA', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_INSULINA', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_INSULINA', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_INSULINA', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_INSULINA', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_INSULINA', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_INSULINA', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_INSULINA', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_INSULINA', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_INSULINA', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_INSULINA', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_INSULINA', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_INSULINA', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_INSULINA', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_EAG']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_HB1AC']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_FERRITINA']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_FOL']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_HCST']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_PROTCREAC']",375
+3,"['valor_PCR', 'valor_TRIG', 'valor_STFR_FEB23']",396
+3,"['valor_PCR', 'valor_TRIG', 'valor_VIT_B12']",374
+3,"['valor_PCR', 'valor_TRIG', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_PCR', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_PCR', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_PCR', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_PCR', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_PCR', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_PCR', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_PCR', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_PCR', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_PCR', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_PCR', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_PCR', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_PCR', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_PCR', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_PCR', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_PCR', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_PCR', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_PCR', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_PCR', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_PCR', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_PCR', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_PCR', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_PCR', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_PCR', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_PCR', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_PCR', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_PCR', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_PCR', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_PCR', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_PCR', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_PCR', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_PCR', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_TRIG', 'valor_EAG', 'valor_HB1AC']",376
+3,"['valor_TRIG', 'valor_EAG', 'valor_FERRITINA']",374
+3,"['valor_TRIG', 'valor_EAG', 'valor_FOL']",374
+3,"['valor_TRIG', 'valor_EAG', 'valor_HCST']",374
+3,"['valor_TRIG', 'valor_EAG', 'valor_PROTCREAC']",375
+3,"['valor_TRIG', 'valor_EAG', 'valor_STFR_FEB23']",396
+3,"['valor_TRIG', 'valor_EAG', 'valor_VIT_B12']",374
+3,"['valor_TRIG', 'valor_EAG', 'valor_VIT_D']",374
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_FERRITINA']",374
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_FOL']",374
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_HCST']",374
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_PROTCREAC']",375
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_STFR_FEB23']",396
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_VIT_B12']",374
+3,"['valor_TRIG', 'valor_HB1AC', 'valor_VIT_D']",374
+3,"['valor_TRIG', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_TRIG', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_TRIG', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_TRIG', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_TRIG', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_TRIG', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_TRIG', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_TRIG', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_TRIG', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_TRIG', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_TRIG', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_TRIG', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_TRIG', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_TRIG', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_TRIG', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_TRIG', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_TRIG', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_TRIG', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_TRIG', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_TRIG', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_TRIG', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_EAG', 'valor_HB1AC', 'valor_FERRITINA']",376
+3,"['valor_EAG', 'valor_HB1AC', 'valor_FOL']",376
+3,"['valor_EAG', 'valor_HB1AC', 'valor_HCST']",376
+3,"['valor_EAG', 'valor_HB1AC', 'valor_PROTCREAC']",377
+3,"['valor_EAG', 'valor_HB1AC', 'valor_STFR_FEB23']",398
+3,"['valor_EAG', 'valor_HB1AC', 'valor_VIT_B12']",376
+3,"['valor_EAG', 'valor_HB1AC', 'valor_VIT_D']",376
+3,"['valor_EAG', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_EAG', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_EAG', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_EAG', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_EAG', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_EAG', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_EAG', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_EAG', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_EAG', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_EAG', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_EAG', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_EAG', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_EAG', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_EAG', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_EAG', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_EAG', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_EAG', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_EAG', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_EAG', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_EAG', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_EAG', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_HB1AC', 'valor_FERRITINA', 'valor_FOL']",374
+3,"['valor_HB1AC', 'valor_FERRITINA', 'valor_HCST']",374
+3,"['valor_HB1AC', 'valor_FERRITINA', 'valor_PROTCREAC']",375
+3,"['valor_HB1AC', 'valor_FERRITINA', 'valor_STFR_FEB23']",396
+3,"['valor_HB1AC', 'valor_FERRITINA', 'valor_VIT_B12']",374
+3,"['valor_HB1AC', 'valor_FERRITINA', 'valor_VIT_D']",374
+3,"['valor_HB1AC', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_HB1AC', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_HB1AC', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_HB1AC', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_HB1AC', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_HB1AC', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_HB1AC', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_HB1AC', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_HB1AC', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_HB1AC', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_HB1AC', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_HB1AC', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_HB1AC', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_HB1AC', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_HB1AC', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_FERRITINA', 'valor_FOL', 'valor_HCST']",374
+3,"['valor_FERRITINA', 'valor_FOL', 'valor_PROTCREAC']",375
+3,"['valor_FERRITINA', 'valor_FOL', 'valor_STFR_FEB23']",396
+3,"['valor_FERRITINA', 'valor_FOL', 'valor_VIT_B12']",374
+3,"['valor_FERRITINA', 'valor_FOL', 'valor_VIT_D']",374
+3,"['valor_FERRITINA', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_FERRITINA', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_FERRITINA', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_FERRITINA', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_FERRITINA', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_FERRITINA', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_FERRITINA', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_FERRITINA', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_FERRITINA', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_FERRITINA', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_FOL', 'valor_HCST', 'valor_PROTCREAC']",375
+3,"['valor_FOL', 'valor_HCST', 'valor_STFR_FEB23']",396
+3,"['valor_FOL', 'valor_HCST', 'valor_VIT_B12']",374
+3,"['valor_FOL', 'valor_HCST', 'valor_VIT_D']",374
+3,"['valor_FOL', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_FOL', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_FOL', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_FOL', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_FOL', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_FOL', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_HCST', 'valor_PROTCREAC', 'valor_STFR_FEB23']",397
+3,"['valor_HCST', 'valor_PROTCREAC', 'valor_VIT_B12']",375
+3,"['valor_HCST', 'valor_PROTCREAC', 'valor_VIT_D']",375
+3,"['valor_HCST', 'valor_STFR_FEB23', 'valor_VIT_B12']",396
+3,"['valor_HCST', 'valor_STFR_FEB23', 'valor_VIT_D']",396
+3,"['valor_HCST', 'valor_VIT_B12', 'valor_VIT_D']",374
+3,"['valor_PROTCREAC', 'valor_STFR_FEB23', 'valor_VIT_B12']",397
+3,"['valor_PROTCREAC', 'valor_STFR_FEB23', 'valor_VIT_D']",397
+3,"['valor_PROTCREAC', 'valor_VIT_B12', 'valor_VIT_D']",375
+3,"['valor_STFR_FEB23', 'valor_VIT_B12', 'valor_VIT_D']",396

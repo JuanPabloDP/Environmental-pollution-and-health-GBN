@@ -1,0 +1,9 @@
+num_columnas_eliminadas,mejor_combinacion,observaciones
+1,['hb07b'],584
+2,"['hb07b', 'valor_STFR_FEB23']",622
+3,"['hb07b', 'valor_PROTCREAC', 'valor_STFR_FEB23']",623
+4,"['hb07b', 'valor_EAG', 'valor_HB1AC', 'valor_STFR_FEB23']",629
+5,"['hb07b', 'valor_EAG', 'valor_HB1AC', 'valor_PROTCREAC', 'valor_STFR_FEB23']",630
+6,"['hb02', 'hb07b', 'valor_EAG', 'valor_HB1AC', 'valor_PROTCREAC', 'valor_STFR_FEB23']",630
+7,"['valor_FERRITINA', 'valor_FOL', 'valor_HCST', 'valor_PROTCREAC', 'valor_STFR_FEB23', 'valor_VIT_B12', 'valor_VIT_D']",1200
+8,"['hb07b', 'valor_FERRITINA', 'valor_FOL', 'valor_HCST', 'valor_PROTCREAC', 'valor_STFR_FEB23', 'valor_VIT_B12', 'valor_VIT_D']",1995
