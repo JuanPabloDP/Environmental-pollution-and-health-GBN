@@ -1,0 +1,15 @@
+---
+title: "DAG1"
+format:
+   html:
+     toc: true
+     html-math-method: katex
+     embed-resources: true
+     self-contained-math: true
+     df-print: kable
+editor: source
+---
+
+```{r}
+
+```
