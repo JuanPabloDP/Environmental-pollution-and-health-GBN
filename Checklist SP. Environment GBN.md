@@ -10,10 +10,10 @@
             -   La información que tenemos es comparable con las condiciones a las que estuvieron sujetas las personas que participaron en la ENSANUT 2022, es decir, asumiremos que los valores de reporta la SEMARNAT para 2025 son buenas estimaciones para esos contaminantes en 2022.
 
         -   Necesitarán considerar, ya sea sólo en el Estado donde reside la persona entrevistada o su municipio, para cruzar esta información con la que contiene la tabla sobre calidad del aire y deberán elegir una sola fuente de información de esta última tabla para obtener los datos sobre los contaminantes para cada persona. **Hint**: Consideren la fuente que tenga menos valores faltantes, por ejemplo, las fuentes fijas casi siempre contienen información para todos los municipios.
--   [ ] Ajusten una GBN para cada una de las DAG propuestas.
--   [ ] Reporten el BIC y el AIC para cada GBN.
+-   [ ] Ajusten una GBN para cada una de las DAG propuestas. (Camila)
+-   [ ] Reporten el BIC y el AIC para cada GBN. (Camila)
 -   [ ] Investiguen y discutan cómo podrían incluir las variables categóricas a la red, por ejemplo, una variable de interés puede ser el sexo.
 -   [ ] Con la mejor estructura que han encontrado hasta el momento, intenten incluir el sexo de las personas.
--   [ ] Con ayuda de las personas especialistas propongan al menos 3 queries que podrían resolver utilizando su red bayesiana y respóndalas usando su mejor modelo.
+-   [ ] Con ayuda de las personas especialistas propongan al menos 3 queries que podrían resolver utilizando su red bayesiana y respóndalas usando su mejor modelo. (Camila)
 -   [ ] Investiguen si incluir modelos no paramétricos les ayuda a mejorar el BIC y el AIC de su mejor modelo.
 -   [ ] Redacten un artículo científico que incluya un abstract, introducción, descripción de los métodos que utilizaron, aplicación de los métodos al problema en cuestión, conclusiones y referencias.
