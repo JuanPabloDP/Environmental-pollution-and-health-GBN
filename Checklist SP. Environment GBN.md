@@ -1,9 +1,9 @@
 -   [x] Limpieza de los datos
--   [ ] Investiguen un poco sobre cómo se relacionan los contaminantes del aire, y cómo y a qué biomarcadores impactan.
+-   [x] Investiguen un poco sobre cómo se relacionan los contaminantes del aire, y cómo y a qué biomarcadores impactan. (Miguel)
     -   [ ] Con ayuda de compañerxs o profesorxs de medicina y química realicen lo siguiente:
         -   [x] Conseguir Experto 1
         -   [ ] Conseguir Experto 2
-        -   [ ] Conseguir Experto 3
+        -   [x] Conseguir Experto 3 (Miguel)
     -   Revisen la información de la ENSANUT y decidan qué **variables numéricas** biológicas y socio-demográficas incluirán en su estudio de modo que se alineen al objetivo del proyecto, es decir, qué factores ambientales influyen en la salud mexicana y qué biomarcadores se ven afectados.
     -   Entrevisten a al menos 3 personas especialistas (pueden ser del campus o externas) que les ayuden a proponer una DAG que represente las relaciones de dependencia, es decir, contarán al final con al menos 3 estructuras diferentes de redes.
         -   Una vez que cuenten con una selección de variables que les satisfaga, construyan el conjunto de datos que utilizarán. Para ello será necesario unir diferentes tablas para obtener la información necesaria. En el caso de los contaminantes del aire asumiremos lo siguiente.
@@ -17,4 +17,4 @@
 -   [ ] Con la mejor estructura que han encontrado hasta el momento, intenten incluir el sexo de las personas. (Juan Pablo)
 -   [ ] Con ayuda de las personas especialistas propongan al menos 3 queries que podrían resolver utilizando su red bayesiana y respóndalas usando su mejor modelo. (Camila)
 -   [ ] Investiguen si incluir modelos no paramétricos les ayuda a mejorar el BIC y el AIC de su mejor modelo. (Gonzalo)
--   [ ] Redacten un artículo científico que incluya un abstract, introducción, descripción de los métodos que utilizaron, aplicación de los métodos al problema en cuestión, conclusiones y referencias.
+-   [ ] Redacten un artículo científico que incluya un abstract, introducción, descripción de los métodos que utilizaron, aplicación de los métodos al problema en cuestión, conclusiones y referencias. (Miguel y Alan)
