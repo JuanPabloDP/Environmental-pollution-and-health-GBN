@@ -32,12 +32,10 @@ Miguel Angel Rivas Torres
 
 \section{Introduction}
 Climate change and air pollution are known to pose critical challenges when it comes to public health. In particular, exposition to gases such as nitrogen dioxide, ozone, and fine particulate matter have been linked to diminished biological biomarkers which are associated with cardiovascular risk, inflammation, and respiratory function. In Mexico, environmental pollution remains a significant health concern, and several measures have been taken in an attempt to mitigate the associated risks as much as possible. However, some of these dangers are not fully understood, and neither are the ways to counteract them.
-Given that these contaminants interact with each other in intricate ways, complex relationships emerge which, in turn,  lend themselves to analysis via Gaussian Bayesian networks. 
-In particular,
 
 \vspace{0.5cm}
 
-Exposure to air pollutants such as SO$_2$, CO, NOx, VOCs, PM$_{10}$, PM$_{2.5}$, and NH$_3$ has a direct impact on various biomarkers related to respiratory, cardiovascular, and metabolic health. The main effects include:
+In particular, exposure to air pollutants such as SO$_2$, CO, NOx, VOCs, PM$_{10}$, PM$_{2.5}$, and NH$_3$ has a direct impact on various biomarkers related to respiratory, cardiovascular, and metabolic health. The main effects include:
 
 \begin{itemize}
     \item \textbf{Particulate matter (PM$_{10}$ and PM$_{2.5}$):} Penetrate the lungs and bloodstream, contributing to systemic inflammation. Key biomarkers affected include C-reactive protein, ferritin , homocysteine, and lipid profiles.
@@ -55,11 +53,13 @@ Exposure to air pollutants such as SO$_2$, CO, NOx, VOCs, PM$_{10}$, PM$_{2.5}$,
 
 Overall, exposure to these pollutants negatively affects multiple systems in the human body, increasing risks for metabolic, cardiovascular, and respiratory diseases, with potential serious health consequences.
 
-
+Given that these contaminants interact with each other in intricate ways, complex relationships emerge which, in turn,  lend themselves to analysis via Gaussian Bayesian networks. Through them, various answers to important questions can be obtained that shed some light on the role these agents play in our modern world.
 
 \section{Methodology}
+Three datasets were used for this analysis: 1) ENSANUT 2022 blood sample data, 2) ENSANUT 2022 socio-demographic data and 3) SEMARNAT air quality measurements for pollutants. Likewise, it was assumed that the people from the first two studies were also exposed to the air pollutants analyzed in the third study. The data sets were merged to ensure consistency of information, and some variables were discarded because of lack of information or because they were irrelevant to the purposes of this analysis. Hence, the final Gaussian Bayesian Networks only used the variables suggested by the medical experts who were consulted.
+A Gaussian Bayesian network represents dependencies among variables using a directed acyclic graph (DAG). Each variable is modeled as a Gaussian conditional distribution given its parents. the model evaluation used score-based methods (BIC, AIC). Furthermore, catergorical variables such as sex were added so as to enrich the inner structure of the networks. 
 
-
+Once the final network was selected, we addressed queries of public health relevance.
 
 \section{Application}
 
