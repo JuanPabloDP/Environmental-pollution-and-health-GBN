@@ -1,0 +1,81 @@
+\documentclass[twocolumn]{article}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage[a4paper, left=1.5cm, right=1.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{etoolbox}
+\usepackage{booktabs}
+
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+
+\title{Gaussian Bayesian networks applied to an analysis of environmental pollution and health data in Mexico }
+
+\author{
+Alan Fernando Bravo Pimentel \and
+Gonzalo Makenly Higuera Inzunza \and
+Juan Pablo de la Peña Gonzalez \and
+Sarah Camila Guzmán Fierro \and
+Miguel Angel Rivas Torres
+}
+
+\date{Semptember 14th 2025}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+% Resumen del artículo
+\end{abstract}
+
+\section{Introduction}
+Climate change and air pollution are known to pose critical challenges when it comes to public health. In particular, exposition to gases such as nitrogen dioxide, ozone, and fine particulate matter have been linked to diminished biological biomarkers which are associated with cardiovascular risk, inflammation, and respiratory function. In Mexico, environmental pollution remains a significant health concern, and several measures have been taken in an attempt to mitigate the associated risks as much as possible. However, some of these dangers are not fully understood, and neither are the ways to counteract them.
+
+\vspace{0.5cm}
+
+In particular, exposure to air pollutants such as SO$_2$, CO, NOx, VOCs, PM$_{10}$, PM$_{2.5}$, and NH$_3$ has a direct impact on various biomarkers related to respiratory, cardiovascular, and metabolic health. The main effects include:
+
+\begin{itemize}
+    \item \textbf{Particulate matter (PM$_{10}$ and PM$_{2.5}$):} Penetrate the lungs and bloodstream, contributing to systemic inflammation. Key biomarkers affected include C-reactive protein, ferritin , homocysteine, and lipid profiles.
+    
+    \item \textbf{Carbon monoxide (CO):} Reduces oxygen transport, leading to hypoxia and affecting hemoglobin  and creatinine levels, as well as inflammatory markers.
+    
+    \item \textbf{Nitrogen oxides (NOx):} Promote vascular inflammation and accelerate atherosclerosis.Biomarkers impacted include C-reactive protein,LDL cholesterol, total cholesterol, glucose, and insulin levels.
+    
+    \item \textbf{Sulfur dioxide (SO$_2$):} Irritates the respiratory tract and, when converted to sulfates, increases lung and cardiovascular damage. Associated biomarkers include C-reactive protein, triglycerides, cholesterol, and hemoglobin.
+    
+    \item \textbf{Volatile organic compounds (VOCs):} Affect liver and kidney function, altering creatinine and uric acid levels, as well as inflammatory biomarkers.
+    
+    \item \textbf{Ammonia (NH$_3$):} Contributes to respiratory and metabolic disorders such as asthma and kidney stress, impacting creatinine, hemoglobin, and micronutrient biomarkers.
+\end{itemize}
+
+Overall, exposure to these pollutants negatively affects multiple systems in the human body, increasing risks for metabolic, cardiovascular, and respiratory diseases, with potential serious health consequences.
+
+Given that these contaminants interact with each other in intricate ways, complex relationships emerge which, in turn,  lend themselves to analysis via Gaussian Bayesian networks. Through them, various answers to important questions can be obtained that shed some light on the role these agents play in our modern world.
+
+\section{Methodology}
+Three datasets were used for this analysis: 1) ENSANUT 2022 blood sample data, 2) ENSANUT 2022 socio-demographic data and 3) SEMARNAT air quality measurements for pollutants. Likewise, it was assumed that the people from the first two studies were also exposed to the air pollutants analyzed in the third study. The data sets were merged to ensure consistency of information, and some variables were discarded because of lack of information or because they were irrelevant to the purposes of this analysis. Hence, the final Gaussian Bayesian Networks only used the variables suggested by the medical experts who were consulted.
+A Gaussian Bayesian network represents dependencies among variables using a directed acyclic graph (DAG). Each variable is modeled as a Gaussian conditional distribution given its parents. the model evaluation used score-based methods (BIC, AIC). Furthermore, catergorical variables such as sex were added so as to enrich the inner structure of the networks. 
+
+Once the final network was selected, we addressed queries of public health relevance.
+
+\section{Application}
+
+
+\section{Conclusions}
+
+
+\section{References}
+\begin{thebibliography}{9}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+
+\bibitem{ref1} 
+
+
+
+\end{thebibliography}
+
+\end{document}
