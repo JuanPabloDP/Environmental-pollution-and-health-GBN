@@ -1,5 +1,5 @@
 ---
-title: "DAG1"
+title: "DAG3"
 format:
    html:
      toc: true
@@ -11,5 +11,45 @@ editor: source
 ---
 
 ```{r}
-
+library(tidyverse)
+library(bnlearn)
 ```
+
+```{r}
+data = read_csv("../../data/data_preliminar.csv")
+head(data)
+```
+```{r}
+colnames(data) = c("COL_HDL", "COL_LDL", "CREAT", "GLU_SUERO", "INSULINA", "PCR", "TRIG", "HB1AC", "SO_2","CO","NOx", "COV", "PM_010", "PM_2_5", "NH_3") #Mismo orden de las columnas 
+head(data)
+```
+
+```{r}
+dag = model2network("[SO_2][NOx][NH_3][CO][COV][PM_010|CO:COV][PM_2_5|SO_2:NOx:NH_3:PM_010][PCR|PM_2_5][INSULINA|PCR][GLU_SUERO|INSULINA][HB1AC|GLU_SUERO][TRIG|INSULINA][COL_LDL|TRIG][COL_HDL|TRIG][CREAT|GLU_SUERO]")
+```
+
+
+```{r}
+blood_fit = bn.fit(dag, data=data)
+```
+
+```{r}
+graphviz.plot(dag, shape = "ellipse")
+```
+
+
+```{r}
+blood_fit$TRIG
+```
+
+```{r}
+score(dag, data=data, type="bic-g")
+```
+
+
+```{r}
+score(dag, data=data, type="aic-g")
+```
+
+
+
