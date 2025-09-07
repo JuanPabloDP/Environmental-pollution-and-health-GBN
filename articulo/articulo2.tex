@@ -27,7 +27,7 @@ Miguel Angel Rivas Torres
 \maketitle
 
 \begin{abstract}
-% Resumen del artículo
+This study analyzes health and environmental pollution data in Mexico using Gaussian Bayesian networks (GBNs). The aim is to find and measure the probabilistic relationships between air pollutants and biological health indicators obtained from the ENSANUT survey of 2022. To create a cohesive model, sociodemographic and biomarker data are combined with information from SEMARNAT air quality records.The methodology employed includes variable selection, expert-informed DAG structure creation, and model evaluation using AIC and BIC. Initial results point to significant correlations between  INFOOOO000000oO00000ooo0oo0000000000000000000000000000000000000000000000000000000000000000000000OO. The method demonstrates how GBNs can help us better understand intricate relationships between pollutants and human health.
 \end{abstract}
 
 \section{Introduction}
@@ -59,13 +59,22 @@ Given that these contaminants interact with each other in intricate ways, comple
 Three datasets were used for this analysis: 1) ENSANUT 2022 blood sample data, 2) ENSANUT 2022 socio-demographic data and 3) SEMARNAT air quality measurements for pollutants. Likewise, it was assumed that the people from the first two studies were also exposed to the air pollutants analyzed in the third study. The data sets were merged to ensure consistency of information, and some variables were discarded because of lack of information or because they were irrelevant to the purposes of this analysis. Hence, the final Gaussian Bayesian Networks only used the variables suggested by the medical experts who were consulted.
 A Gaussian Bayesian network represents dependencies among variables using a directed acyclic graph (DAG). Each variable is modeled as a Gaussian conditional distribution given its parents. the model evaluation used score-based methods (BIC, AIC). Furthermore, catergorical variables such as sex were added so as to enrich the inner structure of the networks. 
 
-Once the final network was selected, we addressed queries of public health relevance.
+Once the final network was selected, we addressed queries of public health relevance suggested by the experts.
+The final variables turned out to be SO\_2, NOx, NH\_3, CO, COV, PM\_010, PM\_2\_5, valor\_PCR, valor\_INSULINA, valor\_GLU\_SUERO, valor\_HB1AC, valor\_TRIG, valor\_COL\_LDL, valor\_COL\_HDL, valor\_CREAT and three expert-informed DAGs were proposed were the following:
+
+%Alan's remaining tasks here: 
+%report bic and aic alongside the pics :)
+%add sex or whatever 
+%and look into non-parametric stuff (Gonzalo's job iirc)
 
 \section{Application}
+Using the best model, numerical answers were provided to the following key queries: 
 
+
+%also we add conclusions of these resultssss
 
 \section{Conclusions}
-
+%Michael will be tasked with doing this, mind you everyone. 
 
 \section{References}
 \begin{thebibliography}{9}
