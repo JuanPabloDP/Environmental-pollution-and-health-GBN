@@ -24,8 +24,8 @@
 -   [ ] Con ayuda de las personas especialistas propongan al menos 3 queries que podrían resolver utilizando su red bayesiana y respóndalas usando su mejor modelo. (Camila)
 -   [ ] Investiguen si incluir modelos no paramétricos les ayuda a mejorar el BIC y el AIC de su mejor modelo. (Gonzalo)
 -   [ ] Redacten un artículo científico que incluya un abstract, introducción, descripción de los métodos que utilizaron, aplicación de los métodos al problema en cuestión, conclusiones y referencias. (Miguel y Alan)
-    -   [ ] Abstract
-    -   [ ] introducción
+    -   [x] Abstract
+    -   [x] introducción
     -   [ ] Metodología
     -   [ ] Aplicación
     -   [ ] Conclusiones
