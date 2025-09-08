@@ -162,15 +162,34 @@ graphviz.plot(dagSex, shape = "ellipse")
 ```
 
 ```{r}
-crop_fit_sex = bn.fit(dagSex, data = dataSex)
+dataSex_complete <- na.omit(dataSex)
 ```
 
-## Score
+# Querying
+
+## Query 1
+
+1.  ¿Cuál es la probabilidad de que una persona tenga un valor alto de PCR si se expone a niveles elevados de PM_2.5?
 
 ```{r}
-score(dag2, data=data, type="bic-g")
+cpquery(dag_fit_sex, event = (PCR>1), evidence = (PM_2_5 > 250), n = 10^6)
+```
+
+2.  Dado que una persona presenta niveles altos de insulina, ¿cuál es la probabilidad de que también tenga triglicéridos elevados?
+
+```{r}
+cpquery(dag_fit_sex, event = (TRIG>200), evidence = (INSULINA>25), n = 10^6)
+```
+
+3.  Entre mujeres y hombres, ¿quién tiene mayor probabilidad de presentar valores elevados de HbA1c si los niveles de glucosa sérica son altos?
+
+```{r}
+cpquery(dag_fit_sex, event= (HB1AC>6.5), evidence= (sexo == "mujer") & (GLU_SUERO>126), n = 10^6)
+
 ```
 
 ```{r}
+cpquery(dag_fit_sex, event= (HB1AC>6.5), evidence= (sexo == "hombre") & (GLU_SUERO>126), n = 10^6)
 
 ```
+
