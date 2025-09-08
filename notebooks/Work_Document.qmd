@@ -18,21 +18,27 @@ library(bnlearn)
 ```
 
 # Abrir Datos
+
 ```{r}
 data = read_csv("../data/data_preliminar.csv")
 head(data)
 ```
 
 # Proceso
+
 ## Crear DAGS
-### Cambiar nombre  a Las columnas
+
+### Cambiar nombre a Las columnas
+
 Esto para referenciar de forma versátil a las variables seleccionadas
+
 ```{r}
 colnames(data) = c("COL_HDL", "COL_LDL", "CREAT", "GLU_SUERO", "INSULINA", "PCR", "TRIG", "HB1AC", "SO_2","CO","NOx", "COV", "PM_010", "PM_2_5", "NH_3") #Mismo orden de las columnas 
 head(data)
 ```
 
 ### DAG1
+
 ```{r}
 dag1 <- model2network("[SO_2][CO][NOx][COV][PM_010][PM_2_5][NH_3][HB1AC|CO][PCR|SO_2:NH_3][TRIG|NOx:COV][COL_HDL|COV][COL_LDL|COV][CREAT|NH_3][GLU_SUERO][INSULINA]"
 )
@@ -43,9 +49,11 @@ blood_fit1 = bn.fit(dag1, data=data)
 ```
 
 #### Graficar
+
 ```{r}
 graphviz.plot(dag1, shape = "ellipse")
 ```
+
 #### Scores
 
 ```{r}
@@ -66,7 +74,6 @@ score(dag1, data=data, type="aic-g")
 dag2 <- model2network("[SO_2][CO][NOx][COV][PM_010][PM_2_5][NH_3][PCR|SO_2:CO:NOx:COV:PM_010:PM_2_5:NH_3][COL_HDL|PCR][COL_LDL|PCR][TRIG|COL_HDL:COL_LDL:PCR][CREAT|PCR][INSULINA|TRIG:PCR:CREAT][GLU_SUERO|INSULINA:TRIG:PCR][HB1AC|GLU_SUERO]")
 ```
 
-
 ```{r}
 blood_fit2 = bn.fit(dag2, data=data)
 ```
@@ -77,16 +84,15 @@ blood_fit2 = bn.fit(dag2, data=data)
 graphviz.plot(dag2, shape = "ellipse")
 ```
 
-
 ```{r}
 blood_fit2$TRIG
 ```
 
 #### Scores
+
 ```{r}
 score(dag2, data=data, type="bic-g")
 ```
-
 
 ```{r}
 score(dag2, data=data, type="aic-g")
@@ -98,7 +104,6 @@ score(dag2, data=data, type="aic-g")
 dag3 = model2network("[SO_2][NOx][NH_3][CO][COV][PM_010|CO:COV][PM_2_5|SO_2:NOx:NH_3:PM_010][PCR|PM_2_5][INSULINA|PCR][GLU_SUERO|INSULINA][HB1AC|GLU_SUERO][TRIG|INSULINA][COL_LDL|TRIG][COL_HDL|TRIG][CREAT|GLU_SUERO]")
 ```
 
-
 ```{r}
 blood_fit3 = bn.fit(dag3, data=data)
 ```
@@ -106,7 +111,6 @@ blood_fit3 = bn.fit(dag3, data=data)
 ```{r}
 graphviz.plot(dag3, shape = "ellipse")
 ```
-
 
 ```{r}
 blood_fit3$TRIG
@@ -116,7 +120,6 @@ blood_fit3$TRIG
 score(dag3, data=data, type="bic-g")
 ```
 
-
 ```{r}
 score(dag3, data=data, type="aic-g")
 ```
@@ -125,9 +128,9 @@ score(dag3, data=data, type="aic-g")
 
 ## Conditional Gaussian Bayesian Network (CGBN)
 
-Dado la implementación de un modelo de Red Bayesiana Gaussiana, no es posible incluir en esta variables categóricas. Es ahí donde entran las Red Bayesiana Gaussiana condicionales, las cuales ajusta los parámetros de un modelo de regresión lineal para las nodos hijos, continuos, para cada una de las categorías de sus nodos padres, categóricos. En este tipo de redes se tiene los supuestos de que las nodos categóricos sólo pueden ser padres de los continuos y, los nodos continuos no pueden ser padres de los discretos. 
+Dado la implementación de un modelo de Red Bayesiana Gaussiana, no es posible incluir en esta variables categóricas. Es ahí donde entran las Red Bayesiana Gaussiana condicionales, las cuales ajusta los parámetros de un modelo de regresión lineal para las nodos hijos, continuos, para cada una de las categorías de sus nodos padres, categóricos. En este tipo de redes se tiene los supuestos de que las nodos categóricos sólo pueden ser padres de los continuos y, los nodos continuos no pueden ser padres de los discretos.
 
-Documentación: https://www.bnlearn.com/documentation/man/modelstring.html 
+Documentación: https://www.bnlearn.com/documentation/man/modelstring.html
 
 # Con la mejor estructura que han encontrado hasta el momento, intenten incluir el sexo de las personas.
 
@@ -167,10 +170,7 @@ crop_fit_sex = bn.fit(dagSex, data = dataSex)
 ```{r}
 score(dag2, data=data, type="bic-g")
 ```
+
 ```{r}
 
 ```
-
-
-
-
