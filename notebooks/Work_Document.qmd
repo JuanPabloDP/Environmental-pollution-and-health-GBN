@@ -166,6 +166,9 @@ dataSex_complete <- na.omit(dataSex)
 ```
 
 # Querying
+```{r}
+dag_fit_sex <- bn.fit(dagSex, data = dataSex_complete)
+```
 
 ## Query 1
 
