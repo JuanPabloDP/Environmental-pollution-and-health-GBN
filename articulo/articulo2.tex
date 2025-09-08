@@ -62,10 +62,48 @@ A Gaussian Bayesian network represents dependencies among variables using a dire
 
 Once the final network was selected, we addressed queries of public health relevance suggested by the experts.
 The final variables turned out to be SO\_2, NOx, NH\_3, CO, COV, PM\_010, PM\_2\_5, valor\_PCR, valor\_INSULINA, valor\_GLU\_SUERO, valor\_HB1AC, valor\_TRIG, valor\_COL\_LDL, valor\_COL\_HDL, valor\_CREAT and three expert-informed DAGs were proposed were the following:
+\subsubsection*{DAG 1}
+\begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.8\columnwidth]{figures/DAG1.pdf}
+        \caption{DAG 2}
+        \label{fig:DAG 2}
+    \end{figure}
+With scores BIC: -169107 and AIC: -169000.6
+
+\subsubsection*{DAG 2}
+\begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.7\columnwidth]{figures/DAG2.pdf}
+        \caption{DAG 2}
+        \label{fig:DAG 2}
+    \end{figure}
+With scores BIC: -168469.1 and AIC: -168329.
+\subsubsection*{DAG 3}
+
+\begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.8\columnwidth]{figures/DAG3.pdf}
+        \caption{DAG 3}
+        \label{fig:DAG 3}
+    \end{figure}
+With scores BIC: -165225 and AIC: -165101.8.
+\\
+As we can see, the DAG that obtained the best results was DAG3
 
 %Alan's remaining tasks here: 
 %report bic and aic alongside the pics :)
-%add sex or whatever 
+After these results were obtained, an attempt was made to include categorical variables such as sex to the network. However, given the implementation of a Gaussian Bayesian network model, it is not possible to include categorical variables in this model. This is where conditional Gaussian Bayesian networks come in, which adjust the parameters of a linear regression model for the continuous child nodes for each of the categories of their categorical parent nodes. In this type of network, it is assumed that categorical nodes can only be parents of continuous nodes, and continuous nodes cannot be parents of discrete nodes.
+The final DAG including the sex variable was the following:
+\begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.8\columnwidth]{figures/DAGSex.pdf}
+        \caption{DAG 3 with sex variable}
+        \label{fig:DAG 3}
+    \end{figure}
+With scores BIC:  and AIC: 
+
+
 %and look into non-parametric stuff (Gonzalo's job iirc)
 
 \section{Application}
@@ -94,8 +132,14 @@ Carvajal, V., Jorques Molla, J. V., Luo, Y., Zhao, Y., Moncunill, G., \& Gascon,
 Air pollution and systemic immune biomarkers in early life: A systematic review. 
 \textit{Environmental Research, 269}(120838), 120838. 
 \url{https://goo.su/tSJVpsZ}
+\bibitem{Mandiga P}
+Mandiga P, Kommu S, Bollu PC. Encefalopatía hepática. [Actualizado el 20 de enero de 2025]. En: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; enero de 2025. Disponible en: \url{https://www.ncbi.nlm.nih.gov/books/NBK430869/}
 
+\bibitem{Méndez-Sánchez}
+Méndez-Sánchez N, \& Gallardo J, \& Coronel Castillo C (2022). Encefalopatía hepática. Nahum M(Ed.), Gastroenterología, 4e. McGraw-Hill Education. \url{https://accessmedicina-mhmedical-com.wdg.biblio.udg.mx:8443/content.aspx?bookid=3246&sectionid=271225720}
 
+\bibitem{bnlearn}
+bnlearn - man/modelstring.html. (n.d.). \url{https://www.bnlearn.com/documentation/man/modelstring.html}
 \end{thebibliography}
 
 \end{document}
