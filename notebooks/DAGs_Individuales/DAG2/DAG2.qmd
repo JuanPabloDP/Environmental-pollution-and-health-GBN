@@ -17,7 +17,7 @@ library(bnlearn)
 ```
 
 ```{r}
-data = read_csv("../../data/data_preliminar.csv")
+data = read_csv("../../../data/data_preliminar.csv")
 head(data)
 ```
 ```{r}
