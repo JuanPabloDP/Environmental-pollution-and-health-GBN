@@ -194,3 +194,4 @@ cpquery(dag_fit_sex, event= (HB1AC>6.5), evidence= (sexo == "mujer") & (GLU_SUER
 cpquery(dag_fit_sex, event= (HB1AC>6.5), evidence= (sexo == "hombre") & (GLU_SUERO>126), n = 10^6)
 
 ```
+
