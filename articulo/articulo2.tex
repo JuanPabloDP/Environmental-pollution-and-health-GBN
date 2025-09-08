@@ -28,7 +28,7 @@ Miguel Angel Rivas Torres
 \maketitle
 
 \begin{abstract}
-This study analyzes health and environmental pollution data in Mexico using Gaussian Bayesian networks (GBNs). The aim is to find and measure the probabilistic relationships between air pollutants and biological health indicators obtained from the ENSANUT survey of 2022. To create a cohesive model, sociodemographic and biomarker data are combined with information from SEMARNAT air quality records.The methodology employed includes variable selection, expert-informed DAG structure creation, and model evaluation using AIC and BIC. Initial results point to significant correlations between  INFOOOO000000oO00000ooo0oo0000000000000000000000000000000000000000000000000000000000000000000000OO. The method demonstrates how GBNs can help us better understand intricate relationships between pollutants and human health.
+This study analyzes health and environmental pollution data in Mexico using Gaussian Bayesian networks (GBNs). The aim is to find and measure the probabilistic relationships between air pollutants and biological health indicators obtained from the ENSANUT survey of 2022. To create a cohesive model, sociodemographic and biomarker data are combined with information from SEMARNAT air quality records.The methodology employed includes variable selection, expert-informed DAG structure creation, and model evaluation using AIC and BIC. Initial results point to significant correlations between   exposure to elevated PM$_{2.5}$ and higher CPR values, as well as higher levels of insulin and triglycerides. The method demonstrates how GBNs can help us better understand intricate relationships between pollutants and human health.
 \end{abstract}
 
 \section{Introduction}
@@ -108,12 +108,19 @@ The final DAG including the sex variable was the following:
 
 \section{Application}
 Using the best model, numerical answers were provided to the following key queries: 
+\begin{itemize}
+    \item What is the probability that a person has a high CRP value if they are exposed to elevated levels of PM$_{2.5}$? \hfill $ \, $
+    Answer: 0.186235
+    \item Given that a person has high insulin levels, what is the probability that they also have elevated triglycerides? \hfill $ \, $
+    Answer 0.4487229
+    \item Between women and men, who has a higher probability of presenting elevated HbA1c values if serum glucose levels are high? \hfill $ \, $
+    Men: 0.6264126, Women: 0.626777
+    
+\end{itemize}
+The results indicate that exposure to elevated PM$_{2.5}$ levels is associated with a mild probability of having high CRP values. Additionally, individuals with high insulin levels tend to show a considerably higher probability of also presenting elevated triglycerides. Finally, the comparison between men and women shows almost identical probabilities of having elevated HbA1c when serum glucose levels are high, this indicates that no substantial gender difference can be found in this context.
 
-
-%also we add conclusions of these resultssss
 
 \section{Conclusions}
-
 The results revealed that exposure to particulate matter (PM${2.5}$ and PM${10}$), nitrogen oxides (NOx), sulfur dioxide (SO$_2$), carbon monoxide (CO), volatile organic compounds (VOC) and ammonia (NH$_3$) is associated with significant changes in biomarkers related to inflammation, cardiovascular risk, and metabolic function, including C-reactive protein, insulin, glucose, hemoglobin A1c, triglycerides and cholesterol fractions. Among the three expert-informed DAGs, DAG 3 demonstrated the best fit according to the BIC and AIC criteria, suggesting that the proposed network structure effectively captures the probabilistic dependencies between pollutants and health indicators.
 
 There were some implications when developing the project, particularly the inclusion of categorical variables such as sex, which required the consideration of conditional Gaussian Bayesian networks. Another notable complication was coordination and communication with medical experts, which sometimes slowed iterative refinement of the network structures and variable selection. Despite these difficulties, the approach proved valuable for quantifying complex interactions in environmental health data and offers a framework for addressing public health questions. 

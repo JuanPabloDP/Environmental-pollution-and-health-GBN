@@ -163,6 +163,8 @@ graphviz.plot(dagSex, shape = "ellipse")
 
 ```{r}
 dataSex_complete <- na.omit(dataSex)
+dag_fit_sex = bn.fit(dagSex, data = dataSex_complete)
+
 ```
 
 # Querying
