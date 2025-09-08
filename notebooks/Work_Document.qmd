@@ -163,8 +163,6 @@ graphviz.plot(dagSex, shape = "ellipse")
 
 ```{r}
 dataSex_complete <- na.omit(dataSex)
-dag_fit_sex = bn.fit(dagSex, data = dataSex_complete)
-
 ```
 
 # Querying
@@ -195,6 +193,46 @@ cpquery(dag_fit_sex, event= (HB1AC>6.5), evidence= (sexo == "mujer") & (GLU_SUER
 
 ```{r}
 cpquery(dag_fit_sex, event= (HB1AC>6.5), evidence= (sexo == "hombre") & (GLU_SUERO>126), n = 10^6)
+
+```
+
+# Modelo no paramétrico
+
+
+```{r}
+library(mgcv)
+library(bnlearn)
+library(gratia)
+```
+
+```{r}
+mod_PM_010 = gam(PM_010 ~ s(CO) + s(COV), data = data, method = "REML")
+mod_PM_2_5 = gam(PM_2_5 ~ s(SO_2) + s(NOx) + s(NH_3) + s(PM_010), data = data, method ="REML")
+mod_PCR = gam(PCR ~ s(PM_2_5), data = data, method = "REML")
+mod_INSULINA = gam(INSULINA ~ s(PCR), data = data, method = "REML")
+mod_GLU_SUERO = gam(GLU_SUERO ~ s(INSULINA), data = data, method = "REML")
+mod_HB1AC = gam(HB1AC ~ s(GLU_SUERO), data = data, method = "REML")
+mod_TRIG = gam(TRIG ~ s(INSULINA), data = data, method = "REML")
+mod_COL_LDL = gam(COL_LDL ~ s(TRIG), data = data, method = "REML")
+mod_COL_HDL = gam(COL_HDL ~ s(TRIG), data = data, method = "REML")
+mod_CREAT = gam(CREAT ~ s(GLU_SUERO), data = data, method = "REML")
+
+
+```
+
+```{r}
+draw(mod_INSULINA, residuals = TRUE, rug = TRUE) +
+  labs(x = "PCR", y = "s(PCR)", title = "Efecto parcial de PCR sobre INSULINA") +
+  theme_bw()
+```
+
+```{r}
+score_total = -1/2*(
+  BIC(mod_PM_010) + BIC(mod_PM_2_5) + BIC(mod_PCR) + BIC(mod_INSULINA) +
+  BIC(mod_GLU_SUERO) + BIC(mod_HB1AC) + BIC(mod_TRIG) + BIC(mod_COL_LDL) +
+  BIC(mod_COL_HDL) + BIC(mod_CREAT)
+)
+score_total
 
 ```
 
