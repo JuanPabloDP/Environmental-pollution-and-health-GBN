@@ -21,7 +21,7 @@ Sarah Camila Guzmán Fierro \and
 Miguel Angel Rivas Torres
 }
 
-\date{Semptember 14th 2025}
+\date{Semptember 7th 2025}
 
 \begin{document}
 
@@ -91,8 +91,7 @@ With scores BIC: -165225 and AIC: -165101.8.
 \\
 As we can see, the DAG that obtained the best results was DAG3
 
-%Alan's remaining tasks here: 
-%report bic and aic alongside the pics :)
+
 After these results were obtained, an attempt was made to include categorical variables such as sex to the network. However, given the implementation of a Gaussian Bayesian network model, it is not possible to include categorical variables in this model. This is where conditional Gaussian Bayesian networks come in, which adjust the parameters of a linear regression model for the continuous child nodes for each of the categories of their categorical parent nodes. In this type of network, it is assumed that categorical nodes can only be parents of continuous nodes, and continuous nodes cannot be parents of discrete nodes.
 The final DAG including the sex variable was the following:
 \begin{figure}[htbp]
@@ -104,8 +103,13 @@ The final DAG including the sex variable was the following:
 
 
 
-%and look into non-parametric stuff (Gonzalo's job iirc)
-
+Moreover, a nonparametric model was adjusted, which obtained a final score of -82881.09. As an example, the following graph was created.
+\begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.8\columnwidth]{figures/nonparam.png}
+        \caption{Partial effect insulin and PCR}
+        \label{partial effect}
+    \end{figure}
 \section{Application}
 Using the best model, numerical answers were provided to the following key queries: 
 \begin{itemize}
