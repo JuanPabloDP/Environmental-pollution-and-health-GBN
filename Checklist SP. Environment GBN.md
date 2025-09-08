@@ -28,4 +28,4 @@
     -   [x] introducción
     -   [x] Metodología
     -   [ ] Aplicación
-    -   [ ] Conclusiones
+    -   [x] Conclusiones
