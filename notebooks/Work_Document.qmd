@@ -34,9 +34,9 @@ head(data)
 
 ### DAG1
 ```{r}
-dag1 = model2network("[SO_2][CO|SO_2][NOx|SO_2][COV|NOx][PM_010|CO:NOx][PM_2_5|CO:PM_010:SO_2][NH_3|COV:PM_010][COL_HDL][COL_LDL|COL_HDL][CREAT][GLU_SUERO][INSULINA][PCR][TRIG|COL_LDL][HB1AC|GLU_SUERO]")
+dag1 <- model2network("[SO_2][CO][NOx][COV][PM_010][PM_2_5][NH_3][HB1AC|CO][PCR|SO_2:NH_3][TRIG|NOx:COV][COL_HDL|COV][COL_LDL|COV][CREAT|NH_3][GLU_SUERO][INSULINA]"
+)
 ```
-
 
 ```{r}
 blood_fit1 = bn.fit(dag1, data=data)
@@ -56,13 +56,11 @@ blood_fit1$TRIG
 score(dag1, data=data, type="bic-g")
 ```
 
-
 ```{r}
 score(dag1, data=data, type="aic-g")
 ```
 
 ### DAG2
-
 
 ```{r}
 dag2 <- model2network("[SO_2][CO][NOx][COV][PM_010][PM_2_5][NH_3][PCR|SO_2:CO:NOx:COV:PM_010:PM_2_5:NH_3][COL_HDL|PCR][COL_LDL|PCR][TRIG|COL_HDL:COL_LDL:PCR][CREAT|PCR][INSULINA|TRIG:PCR:CREAT][GLU_SUERO|INSULINA:TRIG:PCR][HB1AC|GLU_SUERO]")
