@@ -123,4 +123,56 @@ score(dag3, data=data, type="bic-g")
 score(dag3, data=data, type="aic-g")
 ```
 
+# Investiguen y discutan cómo podrían incluir las variables categóricas a la red, por ejemplo, una variable de interés puede ser el sexo.
+
+## Conditional Gaussian Bayesian Network (CGBN)
+
+Dado la implementación de un modelo de Red Bayesiana Gaussiana, no es posible incluir en esta variables categóricas. Es ahí donde entran las Red Bayesiana Gaussiana condicionales, las cuales ajusta los parámetros de un modelo de regresión lineal para las nodos hijos, continuos, para cada una de las categorías de sus nodos padres, categóricos. En este tipo de redes se tiene los supuestos de que las nodos categóricos sólo pueden ser padres de los continuos y, los nodos continuos no pueden ser padres de los discretos. 
+
+Documentación: https://www.bnlearn.com/documentation/man/modelstring.html 
+
+# Con la mejor estructura que han encontrado hasta el momento, intenten incluir el sexo de las personas.
+
+```{r}
+dataSex = read_csv("../data/dataSexo.csv")
+colnames(dataSex) = c("sexo", "COL_HDL", "COL_LDL", "CREAT", "GLU_SUERO", "INSULINA", "PCR", "TRIG", "HB1AC", "SO_2","CO","NOx", "COV", "PM_010", "PM_2_5", "NH_3") 
+```
+
+```{r}
+dataSex <- as.data.frame(dataSex)
+dataSex$sexo <- factor(ifelse(dataSex$sexo == "1", "hombre", "mujer"))
+for (col in setdiff(names(dataSex), "sexo")) {
+  dataSex[[col]] <- as.numeric(dataSex[[col]])
+}
+```
+
+```{r}
+head(dataSex)
+```
+
+```{r}
+dagSex = model2network("[sexo][SO_2][NOx][NH_3][CO][COV][PM_010|CO:COV][PM_2_5|SO_2:NOx:NH_3:PM_010][PCR|PM_2_5][INSULINA|PCR:sexo][GLU_SUERO|INSULINA][HB1AC|GLU_SUERO][TRIG|INSULINA][COL_LDL|TRIG][COL_HDL|TRIG][CREAT|GLU_SUERO]")
+```
+
+## Shape
+
+```{r}
+graphviz.plot(dagSex, shape = "ellipse")
+```
+
+```{r}
+crop_fit_sex = bn.fit(dagSex, data = dataSex)
+```
+
+## Score
+
+```{r}
+score(dag2, data=data, type="bic-g")
+```
+```{r}
+
+```
+
+
+
 
